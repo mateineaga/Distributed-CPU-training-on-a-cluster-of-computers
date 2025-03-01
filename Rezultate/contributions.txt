@@ -1,0 +1,10 @@
+Epoch 1, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 2, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 3, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 4, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 5, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 6, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 7, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 8, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 9, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
+Epoch 10, Process 0, W Contribution = 23.67%, b Contribution = 20.40%
